@@ -1,0 +1,6 @@
+"V1","V2","V3","V4","V5","V6"
+"Shiny","Basic template to use to be able to create Shiny","How to add sections","How to create graphics","How to add inputs","How to add a traduction panel"
+"ShinyDashboard","Basic template to use to be able to create a Shiny Dashboard","How to add boxes","How to create graphics","How to add inputs","How to add a traduction panel"
+"ShinyAlert","How to add a shiny alert to your code","","","",""
+"ShinyRmarkdown","How to populate a Rmarkdown file with inputs","","","",""
+"Image&Link","How to add images in a shiny","How to add a clickable link to another web page","How to allow a user to upload an image in your folders","",""
